@@ -42,7 +42,7 @@ def fade_text(screen, text, position, duration, fade_in=True,text_big = 50,text_
     time.sleep(0.5)
 
 
-
+#以下为测试的代码
 
 '''
 # 初始化Pygame
@@ -64,6 +64,5 @@ fade_text(screen, "Hello, World!", (400, 300), 1000, False)
 pygame.quit()
 
 
-if __name__ == "__main__":
-   fade_text(screen, "Hello, World!", (400, 300), 100, True)
+
 '''   
